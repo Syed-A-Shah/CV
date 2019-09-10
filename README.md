@@ -17,7 +17,7 @@ I am a software engineer, gratuating from <a href="https://makers.tech/">Makers 
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs |
 | ----- | ----------- | --------------------- | ----------------- | ---------------------------- |
-| [Acebook Off the Rails](https://github.com/lucianmot/acebook-off-the-rails) | Social messaging app        | 10 day                | Ruby on Rails, PostgreSQL, RSPec, Capybara, Rubocop, Devise, Bulma-Rails, SimpleCov                       |TravisCI, RubyCritic, Heroku
+| [Acebook Off the Rails](https://github.com/bengscott2/acebook-livewire) | Social messaging app        | 10 day                | Ruby on Rails, PostgreSQL, RSPec, Capybara, Rubocop, Devise, Bulma-Rails, SimpleCov                       |TravisCI, RubyCritic, Heroku
 | [Bank Tech Test](https://github.com/Syed-A-Shah/bank_tech_test) | Mock tech test simulating basic banking functions           | 1 day   | Ruby, RSpec, SimpleCov                | -                            |
 
 ## Skills and Personality
