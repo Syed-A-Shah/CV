@@ -1,58 +1,76 @@
-## Syed A.A. Shah
+<h1 align="center">Syed A.A. Shah</h1>
 
-I am a software engineer, gratuating from Makers Academy in August 2019. I have been indoctrinated in the church of test driven development, Agile process & XP values, but am open to understanding alternative ways of reaching the promised land. Before Makers, I worked in hospitality, genrally in hyphenated roles, as a barista, hospitality assistant and events supervisor. Being the face of plans, sometimes made months in advance, my ability to be forward thinking, calm under pressure and attentive to the sometimes unreasaonable demands of clients was frequently tested and strengthened. 
+<p align="center"> <a href="https://github.com/Syed-A-Shah"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+<div align="center">
+  
+[Projects ](#projects) | 
+[Skills and Personality ](#skills-and-personality) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
+  
+</div>
+
+I am a software engineer, gratuating from <a href="https://makers.tech/">Makers Academy</a> in August 2019. I have been indoctrinated into the church of test driven development, Agile & Extreme Programming values, but am open to alternative ways of reaching the promised land. Before Makers, I worked in hospitality, in multifaceted roles, as a barista, hospitality assistant and events supervisor. Being the face of plans, sometimes made months in advance, my ability to be forward thinking, calm under pressure and attentive to the sometimes challenging demands of clients was frequently tested and strengthened.
 
 ## Projects
-| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
-|--|--|--|--|--|
-| -| -| - | - | - |
-|- | - | - | - | - |
-  |- | - | - | - | - |
-  | - | - | - | - | - |
 
-## Skills
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs |
+| ----- | ----------- | --------------------- | ----------------- | ---------------------------- |
+| [Dragons of the Caribbean](https://github.com/carlfjones/DragonPirates) | A 2D side scroller (not flappy bird!) | 8 days  | Unity, C# | Unity Test Runner (NUnit), Android     |
+| [Acebook Off the Rails](https://github.com/lucianmot/acebook-off-the-rails) | Social messaging app        | 10 day                | Ruby on Rails, PostgreSQL, RSPec, Capybara, Rubocop, Devise, Bulma-Rails, SimpleCov                       |TravisCI, RubyCritic, Heroku
+| [Bank Tech Test](https://github.com/Danielandro/bank-tech-test) | Mock tech test simulating basic banking functions           | 2 days   | Ruby, RSpec, SimpleCov                | -                            |
+| [CustomerApp](https://github.com/Danielandro/customerapp)   | Basic MVC app using Node         | -     | NodeJS, Express, EJS, MongoDB    | Heroku, MLab                            |
 
-#### Test Driven Development(TDD)
+## Skills and Personality
 
-#### Quick Learner
+#### Persistent
 
-During my previous hospitality roles, I have always had to adapt to new work environments & quickly acquire skills. I learnt barista skills through a combination of observation and practice. I also picked up the processes required from hospitality when setting meeting rooms, and providing formal dinner service.
+When I meet challenges, the belief that hardwork and effort are all I need to overcome them always gives me the sense of inevitablity when it comes to problem solving.
 
-#### Test Driven Development(TDD)
+One of my housemates recently lost her bedroom keys, and having watched enough mmovies to believe it possible, I thought I would try to pick the lock, to save her the hassle and expense of calling in a professional. Through a combination of YouTube, lock picking gifs and a wire hanger, I was able to get it open in a couple of hours, though she did end up finding her keys on her work desk the next day.
 
-One of the keystone habits, utilising TDD has been especially helpful as a learning tool. It has forced me to think about how to structure code in order to make it testable, to iterate in small steps when approaching a problem & finding the most simple unit to test first. 
+#### Adaptable & Quick Learner
 
+When I first started working in the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly. Working for an agency, I learnt how to lay tablecloths, serve wine, bar tend, food service. 
 
+At Whitechapel gallery, I went from zero coffee skills to a decent latte. I also learnt about the logistics of setting up small & large scale events. 
 
-#### This Skill
+At Vacherin, I was thrown into the world of corporate catering, a different culture to the one I had just come from. I learned hospitality skills, silver service and the expectations for this type of service. In both of these environments, I was able to quickly acquire the required skills and flourish to the point of becoming events supervisor.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+These skills were very useful throughout the course, especially during our <a href="https://github.com/carlfjones/DragonPirates">final project</a> where we picked up a new language and built a functional game in less than two weeks.
 
-- Experience
-- Achievements
-- Evidence
+#### Pragmatic
 
-#### Another Skill
+In my personal and professional life, I try to look at situations from all angles. Growing up with bickering sisters, I found my ability to understand their 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I try to understand the personalities and motivations of those I work with. I find it helps in knowing how best to communicate with them and how to frame and understand certain decisions they make. I find this reduces potential conflicts and frustration, and helps to set expectations for myself and others. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (May 2019 - Aug 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- Pair programming
+- Code review, GIT workflow
+- Problem solving
+- OOP, TDD, MVC
 - Agile/XP
+- Continuous Integration / Deployment
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara, xUnit
+- Travis CI, Heroku
 
+#### Crown Hills Community College (Secondary)
 
-## Experience
+- 8 A-C GCSE's
+
+#### Any other qualifications
+
+## Interests 
+- Any physical sports from Football to Badmington 
+- Yoga
+- Philosophy - different ideas and approaches to life
+- Psychology - in a practical sense; what factors effect motivation, confidence, decision making, emotions
+- New technology - the constant evolution of our daily interation with tech
