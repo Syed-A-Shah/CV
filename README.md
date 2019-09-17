@@ -11,7 +11,7 @@
   
 </div>
 
-I am a software engineer, gratuating from <a href="https://makers.tech/">Makers Academy</a> in August 2019. I have been indoctrinated into the church of test driven development, Agile & Extreme Programming values, but am open to alternative ways of reaching the promised land. Before Makers, I worked in hospitality, in multifaceted roles, as a barista, hospitality assistant and events supervisor. Being the face of plans, sometimes made months in advance, my ability to be forward thinking, calm under pressure and attentive to the sometimes challenging demands of clients was frequently tested and strengthened.
+I am a software engineer, gratuating from <a href="https://makers.tech/">Makers Academy</a> in August 2019. I have been indoctrinated into the church of test driven development, Agile & Extreme Programming values, but am open to alternative ways of reaching the promised land. Before Makers, I worked in hospitality, in multifaceted roles, and events supervisor. Being the face of plans, sometimes made months in advance, my ability to be forward thinking, calm under pressure and attentive to the sometimes challenging demands of clients was frequently tested and strengthened.
 
 ## Projects
 
